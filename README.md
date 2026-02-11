@@ -6,6 +6,7 @@
 API REST pour la gestion d'un stock de vinyles et de groupes, incluant la gestion des rôles (Gérant/Disquaire) et des filtres de recherche.
 Les réponses aux 4 questions se trouves dans le fichier `reponseAuxQuestions.md`
 Le schéma de la base de données se trouve dans `schema.md`
+l'export de la collection sur bruno est le répertoire `cool`
 
 ## Installation
 1. `npm install`
